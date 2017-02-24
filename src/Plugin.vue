@@ -62,7 +62,7 @@ export default {
         this.schema.options = [
           {
             name:"root_tag",
-            value:"austrianfurniture_0_root"
+            value:""
           },
           {
             name:"type",
