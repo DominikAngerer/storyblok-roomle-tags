@@ -47,11 +47,11 @@ exports.default = {
       if (!this.schema.options) {
         console.warn('roomle-tags: We guess you\'re working locally so we will set the options for you.');
         this.schema.options = [{
-          name: "root_tag",
-          value: ""
+          name: 'root_tag',
+          value: ''
         }, {
-          name: "type",
-          value: "single"
+          name: 'type',
+          value: 'single'
         }];
       }
 
